@@ -1,9 +1,3 @@
-```
-Day-01-Intro-To-Java/lesson.md
-```
-
----
-
 # Day 1: Introduction to Java
 
 Welcome to Day 1 🎉
