@@ -6,7 +6,7 @@ Today, you officially begin your journey into programming.
 
 If you’ve never written code before, that’s completely okay. This course is built for complete beginners.
 
-Take your time. Move slowly. Focus on understanding — not memorizing.
+Take your time. Move slowly. Focus on understanding not memorizing.
 
 ---
 
@@ -226,8 +226,11 @@ Almost every Java program you write will follow this structure.
 Here are mistakes beginners often make:
 
 ❌ Forgetting a semicolon `;`
+
 ❌ Misspelling `System` (Java is case-sensitive)
+
 ❌ Naming the file differently than the class
+
 ❌ Removing curly braces `{ }`
 
 If something doesn’t run, read the error message carefully.
@@ -305,7 +308,7 @@ Today you:
 * Learned how Java programs are structured
 * Printed output to the console
 
-This may seem small — but this is exactly how every professional developer starts.
+This may seem small but this is exactly how every professional developer starts.
 
 Tomorrow, we will learn how to store information using variables.
 
