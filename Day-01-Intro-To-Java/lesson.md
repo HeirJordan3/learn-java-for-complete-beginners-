@@ -1,6 +1,6 @@
 # Day 1: Introduction to Java
 
-Welcome to Day 1 🎉
+Welcome to Day 1 
 
 Today, you officially begin your journey into programming.
 
@@ -10,7 +10,7 @@ Take your time. Move slowly. Focus on understanding — not memorizing.
 
 ---
 
-## ❓ Before You Start
+## Before You Start
 
 You do **NOT** need:
 
@@ -24,7 +24,7 @@ Every developer started exactly where you are right now.
 
 ---
 
-# 🎯 Today’s Goals
+# Today’s Goals
 
 By the end of today, you will:
 
@@ -36,7 +36,7 @@ By the end of today, you will:
 
 ---
 
-# 🧠 What is Programming?
+# What is Programming?
 
 Programming is giving instructions to a computer.
 
@@ -57,7 +57,7 @@ Programming = Writing instructions in a language the computer understands.
 
 ---
 
-# ☕ What is Java?
+# What is Java?
 
 Java is a programming language.
 
@@ -84,7 +84,7 @@ Learning Java builds strong programming fundamentals that transfer to many other
 
 ---
 
-# 🛠 Installing Java (JDK)
+# Installing Java (JDK)
 
 To write Java programs, you need the **Java Development Kit (JDK)**.
 
@@ -103,7 +103,7 @@ If you see a version number printed, you're ready.
 
 ---
 
-# 🛠 Installing an IDE
+# Installing an IDE
 
 An IDE (Integrated Development Environment) is where you write your code.
 
@@ -116,7 +116,7 @@ Install it before continuing.
 
 ---
 
-# ✍️ Your First Java Program
+# Your First Java Program
 
 Now let’s write your first Java program.
 
@@ -146,7 +146,7 @@ You should see:
 Hello, World!
 ```
 
-Congratulations 🎉
+Congratulations 
 You just wrote your first Java program.
 
 ---
@@ -157,7 +157,7 @@ Let’s slow this down and understand what each part does.
 
 ---
 
-## 1️⃣ public class Main
+## public class Main
 
 This creates a **class**.
 
@@ -172,7 +172,7 @@ Main.java → class Main
 
 ---
 
-## 2️⃣ public static void main(String[] args)
+## public static void main(String[] args)
 
 This is where Java starts running your program.
 
@@ -182,7 +182,7 @@ Think of it as the **“Start” button** for your program.
 
 ---
 
-## 3️⃣ System.out.println("Hello, World!");
+## System.out.println("Hello, World!");
 
 This tells the computer:
 
@@ -196,7 +196,7 @@ Print this line and move to the next line.
 
 ---
 
-# 🏗 Basic Structure of a Java Program
+# Basic Structure of a Java Program
 
 Every Java program follows this pattern:
 
@@ -221,7 +221,7 @@ Almost every Java program you write will follow this structure.
 
 ---
 
-# ⚠️ Common Beginner Errors
+# Common Beginner Errors
 
 Here are mistakes beginners often make:
 
@@ -235,7 +235,7 @@ Java usually tells you what went wrong.
 
 ---
 
-# 🧠 Key Concepts from Today
+# Key Concepts from Today
 
 You learned:
 
@@ -267,7 +267,7 @@ My dream job is Software Engineer.
 
 ---
 
-# 🧪 Practice Exercise 2
+# Practice Exercise 2
 
 Print 5 lines about yourself.
 
@@ -275,7 +275,7 @@ Each line must use a separate `System.out.println()` statement.
 
 ---
 
-# 🚀 Mini Challenge
+# Mini Challenge
 
 Create a small “profile card” in the console.
 
@@ -295,7 +295,7 @@ Be creative.
 
 ---
 
-# 🏁 End of Day Reflection
+# End of Day Reflection
 
 Today you:
 
