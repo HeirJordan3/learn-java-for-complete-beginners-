@@ -1,4 +1,4 @@
-# ☕ Learn Java for Complete Beginners
+# Learn Java for Complete Beginners
 
 A step-by-step, beginner-friendly course designed to teach you Java from zero.
 
@@ -6,7 +6,7 @@ Whether you’ve never written code before or you’re looking to strengthen you
 
 ---
 
-## 🎯 Who This Course Is For
+## Who This Course Is For
 
 * Complete beginners
 * High school students
@@ -18,7 +18,7 @@ No prior experience required.
 
 ---
 
-## 📚 What You’ll Learn
+## What You’ll Learn
 
 By the end of this course, you will be able to:
 
@@ -33,7 +33,7 @@ By the end of this course, you will be able to:
 
 ---
 
-## 🗂 Course Structure
+## Course Structure
 
 | Day           | Topic                         |
 | ------------- | ----------------------------- |
@@ -49,18 +49,18 @@ By the end of this course, you will be able to:
 
 Each day includes:
 
-* 📖 Lesson explanation (markdown)
-* 💻 Example code
-* 🧪 Practice exercises
-* ✅ Solutions
+* Lesson explanation (markdown)
+* Example code
+* Practice exercises
+* Solutions
 
 ---
 
-## 🚀 How To Use This Course
+## How To Use This Course
 
 1. Clone this repository.
 2. Complete the setup in the `setup/` folder.
-3. Start with `Day-01-Intro-To-Java`.
+3. Start with `Day01`.
 4. Read the lesson.
 5. Run the example code.
 6. Complete the exercises before checking solutions.
@@ -69,7 +69,7 @@ Move at your own pace.
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 You will need:
 
@@ -79,7 +79,7 @@ You will need:
 
 ---
 
-## 🧠 Why Java?
+## Why Java?
 
 Java is one of the most widely used programming languages in the world.
 
@@ -95,7 +95,7 @@ Learning Java builds strong programming fundamentals that transfer to other lang
 
 ---
 
-## 🏁 Final Project
+## Final Project
 
 At the end of this course, you will build a small console-based Java application that combines everything you’ve learned.
 
@@ -103,7 +103,7 @@ This helps reinforce real-world problem solving and confidence.
 
 ---
 
-## 👨‍🏫 About the Instructor
+## About the Instructor
 
 Created by Jordan Eldridge
 Software Engineer & Instructor
@@ -112,7 +112,7 @@ Passionate about helping beginners break into tech and build strong programming 
 
 ---
 
-## ⭐ If This Helped You
+## If This Helped You
 
 If you found this course helpful:
 
